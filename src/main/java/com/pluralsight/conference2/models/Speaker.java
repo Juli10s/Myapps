@@ -2,7 +2,6 @@ package com.pluralsight.conference2.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import com.sun.jdi.PrimitiveValue;
 import org.hibernate.annotations.Type;
 
 import javax.persistence.*;
